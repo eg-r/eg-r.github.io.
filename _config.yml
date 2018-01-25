@@ -1,0 +1,8 @@
+title: Windows to my professional presence on the internet
+description: -- by Elika Garg
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
