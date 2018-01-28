@@ -8,12 +8,22 @@ My [LinkedIn Profile](https://ca.linkedin.com/in/elika-garg-628a7744) contains a
 ### **World of Code-craft and -draft(s)**  
 My [GitHub Profile](@eg-r) says a little something about my programming experience.  
 Learning R introduced me to the joys of programming, and I wish to continue learning coding skills. Here is my first R-package, which was accepted by Bioconductor: [SIGHTS](https://github.com/eg-r/sights)  
+Unfortunately, my more recent work is not public. However, it involves coding in bash, SQL, and PySpark as well.  
   
-  
+### **R CodeR and LoveR**  
+- I have immense fun working with R and solving data problems. It won't be an overstatement if I said that I'm the R girl at my current workplace. Bring me a probem and I'll solve it.  
+- I find automating web-scraping with RSelenium exciting. Once it works, it's maginificent, and I have saved my co-workers a lot of time with that.  
+- Learning and using Hadleyverse tools is an absolute pleasure. Teaching others to use it is equally satisfying.  
+
+### **OtheR than R**
+- I am quite good at editing/proofreading documentation and manuscripts.  
+- I work well both independently and in teams. And I can handle multiple projects at a time.  
+- If a problem is exciting or urgent, I can go out of my way to tackle it.  
 
 --- 
 
 ##### ***Tidbit***  
 
-- I am actively looking for a full-time position, hoping to work more with R, but always open to learning new computer languages (I'd never know if I like it unless I try it!). Till now I have only properly worked with biological count data (gene expression from NanoString and High-Throughput Screening technologies).  
+- I am always looking for new ways to make sense of data and new data to play with, hoping to work more with R, but of course open to learning new computer languages (I'd never know if I like it unless I try it!). Till now I have only properly worked with biological big-data.
+
 
