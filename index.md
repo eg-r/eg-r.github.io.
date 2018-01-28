@@ -24,6 +24,6 @@ Unfortunately, my more recent work is not public. However, it involves coding in
 
 ##### ***Tidbit***  
 
-- I am always looking for new ways to make sense of data and new data to play with, hoping to work more with R, but of course open to learning new computer languages (I'd never know if I like it unless I try it!). Till now I have only properly worked with biological big-data.
+I am always looking for new ways to make sense of data and new data to play with, hoping to work more with R, but of course open to learning new computer languages (I'd never know if I like it unless I try it!). Till now I have only properly worked with biological big-data.
 
 
