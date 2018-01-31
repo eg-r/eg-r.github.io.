@@ -16,7 +16,7 @@ Unfortunately, my more recent work is not public. However, it involves coding in
 - Learning and using Hadleyverse tools is an absolute pleasure. Teaching others to use it is equally satisfying.  
 
 ### **OtheR than R**
-- I am quite good at editing/proofreading documentation and manuscripts.  
+- I am adept at editing/proofreading documentation and manuscripts.  
 - I work well both independently and in teams. And I can handle multiple projects at a time.  
 - If a problem is exciting or urgent, I can go out of my way to tackle it.  
 
